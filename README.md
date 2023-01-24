@@ -101,31 +101,25 @@ endmodule
 
 ### RTL LOGIC :
 ### Encoder
-
 ![](./encoder.png)
 
 ### Decoder
-
 ![](./decoder.png)
 
 
 ### TIMING DIGRAMS:
 ### Encoder
-
 ![](./entd.png)
 
 ### Decoder
-
 ![](./detd.png)
 
 
 ### TRUTH TABLE:
 ### Encoder
-
 ![](./entt.png)
 
 ### Decoder
-
 ![](./dett.png)
 
 ### RESULTS:
